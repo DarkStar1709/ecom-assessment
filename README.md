@@ -59,8 +59,13 @@ npm start
 - [x] Error handling
 - [x] Mock checkout process
 
-## Screenshots
-<img width="1919" height="874" alt="Screenshot 2025-11-06 203546" src="https://github.com/user-attachments/assets/26bddd3c-df7c-43c2-b430-da87e76d4659" />
-<img width="1919" height="879" alt="Screenshot 2025-11-06 203526" src="https://github.com/user-attachments/assets/d9bc7b63-4d84-4671-8e9e-8d506c684ac3" />
-<img width="1900" height="879" alt="Screenshot 2025-11-06 203512" src="https://github.com/user-attachments/assets/bc32c3d3-c3e3-4083-a2c7-1efcba826478" />
-<img width="1919" height="878" alt="Screenshot 2025-11-06 203411" src="https://github.com/user-attachments/assets/1ca8b9fe-83b6-4d20-bc26-115c3f5ba5df" />
+## Screenshots and videos
+
+
+https://github.com/user-attachments/assets/82612fc8-6bea-47f0-ac83-fc363dc0eea3
+
+<img width="1919" height="874" alt="Screenshot 2025-11-06 203546" src="https://github.com/user-attachments/assets/0e8a9b55-ca6e-48f2-b2b2-a3126821373f" />
+<img width="1919" height="879" alt="Screenshot 2025-11-06 203526" src="https://github.com/user-attachments/assets/3ce53a0a-5c54-41b6-ad10-5ef8adaa921c" />
+<img width="1900" height="879" alt="Screenshot 2025-11-06 203512" src="https://github.com/user-attachments/assets/2e800ea0-a301-4034-b799-2ab17a91c4e7" />
+<img width="1919" height="878" alt="Screenshot 2025-11-06 203411" src="https://github.com/user-attachments/assets/0446cb1b-39c8-40e5-9ea6-17070741cfbe" />
+
