@@ -1,0 +1,71 @@
+# Node modules
+node_modules/
+
+# Backend and frontend node_modules (explicit)
+/backend/node_modules/
+/frontend/node_modules/
+
+# Build outputs
+/backend/build/
+/backend/dist/
+/frontend/build/
+/frontend/dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary directories
+tmp/
+temp/
+.cache/
+.parcel-cache/
+
+# Coverage
+coverage/
+
+# Environment files
+.env
+.env.*
+/backend/.env
+/frontend/.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+/.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Misc
+.history/
+.cache-loader/
+.pnp/
+.pnp.js
+/.envrc
+
+# Test output
+/coverage/
+
+# Optional: lock files (uncomment if you don't want to commit lockfiles)
+# package-lock.json
+# yarn.lock
